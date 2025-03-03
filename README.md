@@ -1,7 +1,6 @@
 ## Stream Social LMS using Supabase, Stream Chat, and Audio & Video SDK 
 
-- [Live Demo]()
-- [FreeCodeCamp Article explaining the project]()
+- [FreeCodeCamp Article explaining the project](https://www.freecodecamp.org/news/how-to-build-a-social-learning-platform-using-nextjs-stream-and-supabase/)
 
 ## Getting Started
 - Clone the GitHub repository
